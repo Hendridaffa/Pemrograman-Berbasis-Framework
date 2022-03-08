@@ -4,7 +4,7 @@ import Test from './Test';
 import List from './List';
 import HelloComponent from './HelloComponent/HelloComponent';
 import './index.css';
-//import App from './App';
+import App from './App';
 import reportWebVitals from './reportWebVitals';
 
 class StateFullComponent extends React.Component{
@@ -12,7 +12,7 @@ class StateFullComponent extends React.Component{
     return<p>StateFullComponent</p>
   }
 }
-ReactDOM.render(<Login />, document.getElementById('root'));
+ReactDOM.render(<Test />, document.getElementById('root'));
 
 // If you want to start measuring performance in your app, pass a function
 // to log results (for example: reportWebVitals(console.log))
