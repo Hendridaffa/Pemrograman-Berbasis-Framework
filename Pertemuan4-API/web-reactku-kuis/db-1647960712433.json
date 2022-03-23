@@ -1,0 +1,40 @@
+{
+  "mahasiswa": [
+    {
+      "id": 1,
+      "nama": "Hendri Daffa Athaya",
+      "hp": "082334951014",
+      "angkatan": "2019",
+      "status": "Aktif",
+      "alamat": "Mojokerto",
+      "NIM": "1941720199"
+    },
+    {
+      "id": 2,
+      "nama": "Syafarudin Andi S",
+      "hp": "085158511823",
+      "angkatan": "2019",
+      "status": "Aktif",
+      "alamat": "Surabaya",
+      "NIM": "1941720195"
+    },
+    {
+      "id": 3,
+      "nama": "M. Yaafi",
+      "hp": "082465895624",
+      "angkatan": "2019",
+      "status": "Aktif",
+      "alamat": "Malang",
+      "NIM": "1941720186"
+    },
+    {
+      "id": 4,
+      "nama": "Wahyu Isnanto",
+      "hp": "085856421235",
+      "angkatan": "2019",
+      "status": "Aktif",
+      "alamat": "Sidoarjo",
+      "NIM": "1941720187"
+    }
+  ]
+}
