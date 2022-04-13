@@ -1,0 +1,74 @@
+{
+  "produk": [
+    {
+      "id": 1,
+      "nama": "Oven Pemanggang Elektrik Multifungsi 12l Oll-3312",
+      "harga": 250000,
+      "stok": 13,
+      "gambar": "./images/oven1.jpg"
+    },
+    {
+      "id": 2,
+      "nama": "Cosmos CO9909B Oven Standard 9 Liter 350 Watt Cosmos",
+      "harga": 289000,
+      "stok": 21,
+      "gambar": "./images/oven2.jpg"
+    },
+    {
+      "id": 3,
+      "nama": "Kris Oven Toaster 10 Ltr 350w - Hitam",
+      "harga": 369900,
+      "stok": 7,
+      "gambar": "./images/oven3.jpg"
+    },
+    {
+      "id": 4,
+      "nama": "Oven Listrik Layar Sentuh 12 L-800 Watt Oven Digital",
+      "harga": 300000,
+      "stok": 19,
+      "gambar": "./images/oven4.jpg"
+    },
+    {
+      "id": 5,
+      "nama": "kirin oven listrik 16 liter - kbo 160 ll low wat with lamp microwave",
+      "harga": 565000,
+      "stok": 30,
+      "gambar": "./images/oven5.jpg"
+    },
+    {
+      "id": 6,
+      "nama": "Oven Listrik Arashi M26b / Arashi Oven Listrik Low Wat",
+      "harga": 628800,
+      "stok": 29,
+      "gambar": "./images/oven6.jpg"
+    },
+    {
+      "id": 7,
+      "nama": "Getra Mosaico-11e Combi Oven / Oven Pemanggang & Steam , Multi Fungsi",
+      "harga": 61800000,
+      "stok": 3,
+      "gambar": "./images/oven7.jpg"
+    },
+    {
+      "id": 8,
+      "nama": "Oven Listrik Sharp 18L",
+      "harga": 725000,
+      "stok": 28,
+      "gambar": "./images/oven8.jpg"
+    },
+    {
+      "id": 9,
+      "nama": "Kirin Kbo-160ll Oven Listrik Low Watt With Lamp",
+      "harga": 565000,
+      "stok": 20,
+      "gambar": "./images/oven9.jpg"
+    },
+    {
+      "id": 10,
+      "nama": "Oven Gas Portable Stainless Steel Hock HO-GS103",
+      "harga": 1545000,
+      "stok": 19,
+      "gambar": "./images/oven10.jpg"
+    }
+  ]
+}
