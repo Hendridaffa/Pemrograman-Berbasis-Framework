@@ -4,21 +4,21 @@
       "id": 1,
       "nama": "Oven Pemanggang Elektrik Multifungsi 12l Oll-3312",
       "harga": 250000,
-      "stok": 13,
+      "stok": 12,
       "gambar": "./images/oven1.jpg"
     },
     {
       "id": 2,
       "nama": "Cosmos CO9909B Oven Standard 9 Liter 350 Watt Cosmos",
       "harga": 289000,
-      "stok": 21,
+      "stok": 20,
       "gambar": "./images/oven2.jpg"
     },
     {
       "id": 3,
       "nama": "Kris Oven Toaster 10 Ltr 350w - Hitam",
       "harga": 369900,
-      "stok": 7,
+      "stok": 6,
       "gambar": "./images/oven3.jpg"
     },
     {
