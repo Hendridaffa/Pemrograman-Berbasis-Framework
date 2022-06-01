@@ -1,0 +1,40 @@
+{
+  "mahasiswa": [
+    {
+      "id": 1,
+      "nama": "Dandi Agung Setiawan",
+      "hp": "087846184617",
+      "angkatan": "2019",
+      "status": "Aktif",
+      "alamat": "Lumajang",
+      "NIM": "1941720009"
+    },
+    {
+      "id": 2,
+      "nama": "Auzan Ihtifazuddin F. Z. H.",
+      "hp": "081234018065",
+      "angkatan": "2019",
+      "status": "Aktif",
+      "alamat": "Jember",
+      "NIM": "1941720110"
+    },
+    {
+      "id": 3,
+      "nama": "Pramudya Wibowo",
+      "hp": "082244101304",
+      "angkatan": "2019",
+      "status": "Aktif",
+      "alamat": "Probolinggo",
+      "NIM": "1941720054"
+    },
+    {
+      "id": 4,
+      "nama": "Abdur Rozak Junaedi",
+      "hp": "085755804391",
+      "angkatan": "2019",
+      "status": "Aktif",
+      "alamat": "Probolinggo",
+      "NIM": "1941720094"
+    }
+  ]
+}
